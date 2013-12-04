@@ -1,0 +1,8 @@
+---
+layout: post
+title: myfirst post
+---
+
+This is the very first post test
+
+---
