@@ -6,4 +6,4 @@ title: myfirst post
 This is the very first post test
 
 ---
-This is my first edit
+This is my second edit
